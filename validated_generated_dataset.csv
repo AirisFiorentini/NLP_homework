@@ -1,0 +1,624 @@
+original,generated,similarity
+Share my location with Hillary's sister,Share my location with Emily's sister,0.7414776086807251
+Share my location with Hillary's sister,Share my location with Rachel's sister,0.7415555119514465
+Share my location with Hillary's sister,Share my location with Megan's sister,0.752455472946167
+Share my location with Hillary's sister,Share my location with Jessica's sister,0.7505614757537842
+Share my location with Hillary's sister,Share my location with Eric's sister,0.7573699355125427
+Share my location with Hillary's sister,Share my location with Sarah's sister,0.7498714923858643
+Share my location with Hillary's sister,Share my location with Laura's sister,0.7521885633468628
+Send my current location to my father,Send my exact location to my father,0.9250024557113647
+Send my current location to my father,Send my birth location to my father,0.8710629940032959
+Send my current location to my father,Send my GPS location to my father,0.8995832800865173
+Send my current location to my father,Send my approximate location to my father,0.9489315748214722
+Send my current location to my father,Send my precise location to my father,0.9251172542572021
+Send my current location to my father,Send my current location to my father,1.0
+Send my current location to my father,Send my email location to my father,0.9075214862823486
+Share my current location with Jim,Share my exact location with Jim,0.9224203824996948
+Share my current location with Jim,Share my approximate location with Jim,0.9265284538269043
+Share my current location with Jim,Share my current location with Jim,1.0000001192092896
+Share my current location with Jim,Share my GPS location with Jim,0.9083268642425537
+Share my current location with Jim,Share my new location with Jim,0.9132514595985413
+Share my current location with Jim,Share my vacation location with Jim,0.8525365591049194
+Share my current location with Jim,Share my next location with Jim,0.8977535367012024
+Send my location to my husband,Send my location to my editor,0.6239374876022339
+Send my location to my husband,Send my location to my ISP,0.6734334826469421
+Send my location to my husband,Send my location to my supervisor,0.7577357888221741
+Send my location to my husband,Send my location to my inbox,0.7275761961936951
+Send my location to my husband,Send my location to my landlord,0.6561443209648132
+Send my location to my husband,Send my location to my friends,0.767066240310669
+Send my location to my husband,Send my location to my server,0.6480523347854614
+Send my location,Send my email,0.6457540988922119
+Send my location,Send my thoughts,0.5086666941642761
+Send my location,Send my feedback,0.4603320360183716
+Send my location,Send my message,0.5831342935562134
+Send my location,Send my Email,0.6457540988922119
+Send my location,Send my photos,0.6504706740379333
+Send my location,Send my questions,0.5460763573646545
+Always share my location with Lori,Always share my location with me,0.7594097852706909
+Always share my location with Lori,Always share my location with friends,0.725357174873352
+Always share my location with Lori,Always share my location with us,0.7779139876365662
+Always share my location with Lori,Always share my location with others,0.7371279001235962
+Always share my location with Lori,Always share my location with you,0.7629593014717102
+Always share my location with Lori,Always share my location with!,0.7755840420722961
+Always share my location with Lori,Always share my location with 🙂,0.7584566473960876
+Send my current location to Anna,Send my current thoughts to Anna,0.5416589975357056
+Send my current location to Anna,Send my current questions to Anna,0.6184133291244507
+Send my current location to Anna,Send my current story to Anna,0.6268212199211121
+Send my current location to Anna,Send my current email to Anna,0.7217184901237488
+Send my current location to Anna,Send my current query to Anna,0.6697805523872375
+Send my current location to Anna,Send my current queries to Anna,0.6671913266181946
+Send my current location to Anna,Send my current letter to Anna,0.6692400574684143
+Share my location with my Uber driver,Share my story with my Uber driver,0.645230233669281
+Share my location with my Uber driver,Share my frustrations with my Uber driver,0.5694891214370728
+Share my location with my Uber driver,Share my experience with my Uber driver,0.6284264326095581
+Share my location with my Uber driver,Share my experiences with my Uber driver,0.6406514644622803
+Share my location with my Uber driver,Share my thoughts with my Uber driver,0.6257525682449341
+Share my location with my Uber driver,Share my journey with my Uber driver,0.8021780252456665
+Share my location with my Uber driver,Share my ride with my Uber driver,0.6586684584617615
+Share my location with Jo until 8pm,Share my thoughts with Jo until 8pm,0.6499481201171875
+Share my location with Jo until 8pm,Share my story with Jo until 8pm,0.7120926380157471
+Share my location with Jo until 8pm,Share my views with Jo until 8pm,0.6177405118942261
+Share my location with Jo until 8pm,Share my post with Jo until 8pm,0.7529107332229614
+Share my location with Jo until 8pm,Share my blog with Jo until 8pm,0.7431891560554504
+Share my location with Jo until 8pm,Share my comments with Jo until 8pm,0.6934325695037842
+Share my location with Jo until 8pm,Share my stories with Jo until 8pm,0.704846203327179
+Share my current location,Share my current posts,0.5424340963363647
+Share my current location,Share my current blog,0.4774000644683838
+Share my current location,Share my current post,0.5289564728736877
+Share my current location,Share my current thoughts,0.07312034070491791
+Share my current location,Share my current articles,0.3835347890853882
+Share my current location,Share my current profile,0.6133536100387573
+Share my current location,Share my current views,0.356448769569397
+Is The View more expensive than Masa?,Is The Simpsons more expensive than Masa?,0.6139171123504639
+Is The View more expensive than Masa?,Is The Boss more expensive than Masa?,0.6945235133171082
+Is The View more expensive than Masa?,Is The Alchemist more expensive than Masa?,0.6445149183273315
+Is The View more expensive than Masa?,Is The Matrix more expensive than Masa?,0.6902447938919067
+Is The View more expensive than Masa?,Is The Cube more expensive than Masa?,0.7016591429710388
+Is The View more expensive than Masa?,Is The Shining more expensive than Masa?,0.7012736797332764
+Is The View more expensive than Masa?,Is The Shard more expensive than Masa?,0.6986327767372131
+Is Soho Grand better than Paramount?,Is Soho Grand better than Paramount?,1.0000001192092896
+Is Soho Grand better than Paramount?,Is Soho Grand Better than Paramount?,1.0000001192092896
+Is Soho Grand better than Paramount?,Is Soho Grand rather than Paramount?,0.8669719696044922
+Is Soho Grand better than Paramount?,Is Soho Grand bigger than Paramount?,0.8595337867736816
+Is Soho Grand better than Paramount?,Is Soho Grandmore than Paramount?,0.9079071879386902
+Is Soho Grand better than Paramount?,Is Soho Grand Older than Paramount?,0.8444748520851135
+Is Soho Grand better than Paramount?,Is Soho Grand older than Paramount?,0.8444748520851135
+Does the View has reserved parking?,Does the View has ample parking?,0.8657407164573669
+Does the View has reserved parking?,Does the View has enough parking?,0.8461881279945374
+Does the View has reserved parking?,Does the View has more parking?,0.7973231077194214
+Does the View has reserved parking?,Does the View has overflow parking?,0.8476699590682983
+Does the View has reserved parking?,Does the View has adequate parking?,0.8322848081588745
+Does the View has reserved parking?,Does the View has sufficient parking?,0.8365235924720764
+Does the View has reserved parking?,Does the View has garage parking?,0.8449923992156982
+When is Rao's the most crowded?,When is Rao's the toilet crowded?,0.738548994064331
+When is Rao's the most crowded?,When is Rao's the bathroom crowded?,0.7606823444366455
+When is Rao's the most crowded?,When is Rao's the office crowded?,0.8253518342971802
+When is Rao's the most crowded?,When is Rao's the airport crowded?,0.8189296126365662
+When is Rao's the most crowded?,When is Rao's the subway crowded?,0.8090521097183228
+When is Rao's the most crowded?,When is Rao's the stadium crowded?,0.8299950361251831
+When is Rao's the most crowded?,When is Rao's the sky crowded?,0.7731987237930298
+Is there a parking at my hotel?,Is there any parking at my hotel?,0.9839485883712769
+Is there a parking at my hotel?,Is there ample parking at my hotel?,0.9114798903465271
+Is there a parking at my hotel?,Is there enough parking at my hotel?,0.8814033269882202
+Is there a parking at my hotel?,Is there more parking at my hotel?,0.8406386375427246
+Is there a parking at my hotel?,Is there adequate parking at my hotel?,0.8955979943275452
+Is there a parking at my hotel?,Is there sufficient parking at my hotel?,0.8937702775001526
+Is there a parking at my hotel?,Is there no parking at my hotel?,0.9167970418930054
+How crowded is Per Se right now?,How crowded is Per Se right now?,0.9999999403953552
+How crowded is Per Se right now?, how crowded is Per Se right now?,0.9999999403953552
+How crowded is Per Se right now?, How crowded is Per Se right now?,0.9999999403953552
+How crowded is Per Se right now?,how crowded is Per Se right now?,0.9999999403953552
+How crowded is Per Se right now?,So crowded is Per Se right now?,0.9870021343231201
+How crowded is Per Se right now?, So crowded is Per Se right now?,0.9870021343231201
+How crowded is Per Se right now?, as crowded is Per Se right now?,0.9666332006454468
+What time does Pouring Ribbons open tonight?,What time does Pouring Ribbons start tonight?,0.9202573299407959
+What time does Pouring Ribbons open tonight?,What time does Pouring Ribbons begin tonight?,0.9207552075386047
+What time does Pouring Ribbons open tonight?,What time does Pouring Ribbons open tonight?,0.9999999403953552
+What time does Pouring Ribbons open tonight?,What time does Pouring Ribbons end tonight?,0.9055109024047852
+What time does Pouring Ribbons open tonight?,What time does Pouring Ribbons commence tonight?,0.8962408900260925
+What time does Pouring Ribbons open tonight?,What time does Pouring Ribbons come tonight?,0.9173381328582764
+What time does Pouring Ribbons open tonight?,What time does Pouring Ribbons arrive tonight?,0.8708314299583435
+Is the Swan Oyster Depot cash-only?,Is the Swan Oyster Depot cash-only?,1.0
+Is the Swan Oyster Depot cash-only?,Will the Swan Oyster Depot cash-only?,0.9718795418739319
+Is the Swan Oyster Depot cash-only?,Was the Swan Oyster Depot cash-only?,0.9397069811820984
+Is the Swan Oyster Depot cash-only?,Are the Swan Oyster Depot cash-only?,0.9844467043876648
+Is the Swan Oyster Depot cash-only?,Why the Swan Oyster Depot cash-only?,0.9001197814941406
+Is the Swan Oyster Depot cash-only?, is the Swan Oyster Depot cash-only?,1.0
+Is the Swan Oyster Depot cash-only?,Buy the Swan Oyster Depot cash-only?,0.8838816285133362
+Is there a wifi at The Smile?,Is there a wifi at Good Smile?,0.9301226735115051
+Is there a wifi at The Smile?,Is there a wifi at Camp Smile?,0.8996818661689758
+Is there a wifi at The Smile?,Is there a wifi at Google Smile?,0.873623251914978
+Is there a wifi at The Smile?,Is there a wifi at Cafe Smile?,0.9141644239425659
+Is there a wifi at The Smile?,Is there a wifi at Lime Smile?,0.8954663872718811
+Is there a wifi at The Smile?,Is there a wifi at Lucky Smile?,0.9179478883743286
+Is there a wifi at The Smile?,Is there a wifi at Old Smile?,0.9224423766136169
+Is Pates Et Traditions cash only?,Is Pates Etihad cash only?,0.6441067457199097
+Is Pates Et Traditions cash only?,Is Pates Etching cash only?,0.7265620827674866
+Is Pates Et Traditions cash only?,Is Pates Etna cash only?,0.7817791104316711
+Is Pates Et Traditions cash only?,Is Pates Etienne cash only?,0.8368852138519287
+Is Pates Et Traditions cash only?,Is Pates Etiquette cash only?,0.8120430707931519
+Is Pates Et Traditions cash only?,Is Pates Et al cash only?,0.676771879196167
+Is Pates Et Traditions cash only?,Is Pates Etch cash only?,0.7093309164047241
+What's planned at Slim's tonight?,What's planned at Slim's tonight?,1.0000001192092896
+What's planned at Slim's tonight?,What'S planned at Slim's tonight?,1.0000001192092896
+What's planned at Slim's tonight?,What'm planned at Slim's tonight?,0.9482200741767883
+What's planned at Slim's tonight?,What't planned at Slim's tonight?,0.9679371118545532
+What's planned at Slim's tonight?,What'n planned at Slim's tonight?,0.978498637676239
+What's planned at Slim's tonight?,What' ya planned at Slim's tonight?,0.9490237832069397
+What's planned at Slim's tonight?,What're planned at Slim's tonight?,0.9916179776191711
+Show me photos of Mondrian Soho,Send me photos of Mondrian Soho,0.9568588733673096
+Show me photos of Mondrian Soho,Show me photos of Mondrian Soho,1.000000238418579
+Show me photos of Mondrian Soho, Send me photos of Mondrian Soho,0.9568588733673096
+Show me photos of Mondrian Soho, send me photos of Mondrian Soho,0.9568588733673096
+Show me photos of Mondrian Soho, sent me photos of Mondrian Soho,0.8103477954864502
+Show me photos of Mondrian Soho,Give me photos of Mondrian Soho,0.9856470227241516
+Show me photos of Mondrian Soho, show me photos of Mondrian Soho,1.000000238418579
+What time does Employees Only close?, What time does Employees Only close?,1.0000001192092896
+What time does Employees Only close?,What time does Employees Only close?,1.0000001192092896
+What time does Employees Only close?, what time does Employees Only close?,1.0000001192092896
+What time does Employees Only close?,Which time does Employees Only close?,0.9907912611961365
+What time does Employees Only close?, Which time does Employees Only close?,0.9907912611961365
+What time does Employees Only close?,How time does Employees Only close?,0.9289350509643555
+What time does Employees Only close?,Why time does Employees Only close?,0.8178569078445435
+Where's Irving Plaza located?,Where's Irving Plaza located?,1.0
+Where's Irving Plaza located?, Where's Irving Plaza located?,1.0
+Where's Irving Plaza located?,What's Irving Plaza located?,0.9908104538917542
+Where's Irving Plaza located?,where's Irving Plaza located?,1.0
+Where's Irving Plaza located?, where's Irving Plaza located?,1.0
+Where's Irving Plaza located?,How's Irving Plaza located?,0.9785436391830444
+Where's Irving Plaza located?,Who's Irving Plaza located?,0.9595765471458435
+How far is the NoMad Bar?,How far is the NoMad Bar?,1.0000001192092896
+How far is the NoMad Bar?,How far is your NoMad Bar?,0.955784797668457
+How far is the NoMad Bar?,How far is this NoMad Bar?,0.9603896141052246
+How far is the NoMad Bar?,How far is Café NoMad Bar?,0.8109794855117798
+How far is the NoMad Bar?,How far is yours NoMad Bar?,0.9365352988243103
+How far is the NoMad Bar?,How far is Cafe NoMad Bar?,0.8109794855117798
+How far is the NoMad Bar?,How far is our NoMad Bar?,0.9595319032669067
+Can I park at Gershwin Theatre?,Can I park at Gershwin Theatre?,1.000000238418579
+Can I park at Gershwin Theatre?,Can I park inside Gershwin Theatre?,0.9794574975967407
+Can I park at Gershwin Theatre?,Can I park in Gershwin Theatre?,0.99122554063797
+Can I park at Gershwin Theatre?,Can I park near Gershwin Theatre?,0.968220055103302
+Can I park at Gershwin Theatre?,Can I park outside Gershwin Theatre?,0.9613113403320312
+Can I park at Gershwin Theatre?,Can I park into Gershwin Theatre?,0.988935649394989
+Can I park at Gershwin Theatre?,Can I park the Gershwin Theatre?,0.9350906610488892
+What's Lori's home address?,What's Kim's home address?,0.677838921546936
+What's Lori's home address?,What's Trump's home address?,0.6165682673454285
+What's Lori's home address?,What's Snowden's home address?,0.5904486775398254
+What's Lori's home address?,What's Rachel's home address?,0.7596632838249207
+What's Lori's home address?,What's Zuckerberg's home address?,0.581449031829834
+What's Lori's home address?,What's Paddock's home address?,0.5665571689605713
+What's Lori's home address?,What's Ashley's home address?,0.7295947670936584
+Give me Steve's address in Manhattan,Give me Steve's address in person,0.836214542388916
+Give me Steve's address in Manhattan,Give me Steve's address in email,0.761833131313324
+Give me Steve's address in Manhattan,Give me Steve's address in advance,0.802859365940094
+Give me Steve's address in Manhattan,Give me Steve's address in writing,0.8063268065452576
+Give me Steve's address in Manhattan,Give me Steve's address in English,0.6980811953544617
+Give me Steve's address in Manhattan,Give me Steve's address in Spanish,0.6014551520347595
+Give me Steve's address in Manhattan,Give me Steve's address in iTunes,0.7474175095558167
+Does Cafe Gitane have wifi?,Does Cafe Cafe have wifi?,0.8861415982246399
+Does Cafe Gitane have wifi?,Does Cafe Café have wifi?,0.8861415982246399
+Does Cafe Gitane have wifi?,Does Cafe Nero have wifi?,0.8411352634429932
+Does Cafe Gitane have wifi?,Does Cafe Zero have wifi?,0.8305842876434326
+Does Cafe Gitane have wifi?,Does Cafe Space have wifi?,0.8521233797073364
+Does Cafe Gitane have wifi?,Does Cafe Racer have wifi?,0.7779654860496521
+Does Cafe Gitane have wifi?,Does Cafe Hut have wifi?,0.8693756461143494
+Show me veggie restaurants nearby,Find me veggie restaurants nearby,0.9483647346496582
+Show me veggie restaurants nearby,Show me veggie restaurants nearby,1.0
+Show me veggie restaurants nearby, Find me veggie restaurants nearby,0.9483647346496582
+Show me veggie restaurants nearby,Call me veggie restaurants nearby,0.8866915106773376
+Show me veggie restaurants nearby,Send me veggie restaurants nearby,0.8917614817619324
+Show me veggie restaurants nearby, find me veggie restaurants nearby,0.9483647346496582
+Show me veggie restaurants nearby,Get me veggie restaurants nearby,0.8062644004821777
+Where is the nearest Starbucks?,Where's the nearest Starbucks?,0.9456502795219421
+Where is the nearest Starbucks?,Where are the nearest Starbucks?,0.978827953338623
+Where is the nearest Starbucks?,Where is the nearest Starbucks?,1.0
+Where is the nearest Starbucks?,Where IS the nearest Starbucks?,1.0
+Where is the nearest Starbucks?,Where at the nearest Starbucks?,0.8767969608306885
+Where is the nearest Starbucks?,Where to the nearest Starbucks?,0.9708546996116638
+Where is the nearest Starbucks?,Where was the nearest Starbucks?,0.8905817270278931
+Find me the closest theatre for tonight,Find me the closest theatre for tonight,1.0
+Find me the closest theatre for tonight,Show me the closest theatre for tonight,0.9804688096046448
+Find me the closest theatre for tonight,Get me the closest theatre for tonight,0.9861588478088379
+Find me the closest theatre for tonight, show me the closest theatre for tonight,0.9804688096046448
+Find me the closest theatre for tonight, find me the closest theatre for tonight,1.0
+Find me the closest theatre for tonight,Give me the closest theatre for tonight,0.9848677515983582
+Find me the closest theatre for tonight,show me the closest theatre for tonight,0.9804688096046448
+Book a restaurant for brunch next Sunday,Book a restaurant for brunch next Sunday,1.0000001192092896
+Book a restaurant for brunch next Sunday,Book a restaurant for dinner next Sunday,0.8723389506340027
+Book a restaurant for brunch next Sunday,Book a restaurant for lunch next Sunday,0.8961869478225708
+Book a restaurant for brunch next Sunday,Book a restaurant for breakfast next Sunday,0.8943888545036316
+Book a restaurant for brunch next Sunday,Book a restaurant for sale next Sunday,0.7358112335205078
+Book a restaurant for brunch next Sunday,Book a restaurant for Thanksgiving next Sunday,0.7561277747154236
+Book a restaurant for brunch next Sunday,Book a restaurant for Easter next Sunday,0.6897224187850952
+Need a table for 6,Need a Friend for 6,0.4131765067577362
+Need a table for 6,Need a Hero for 6,0.3650864362716675
+Need a table for 6,Need a Reply for 6,0.44834664463996887
+Need a table for 6,Need a recipe for 6,0.5410667061805725
+Need a table for 6,Need a Prayer for 6,0.3857727348804474
+Need a table for 6,Need a Coke for 6,0.37925267219543457
+Need a table for 6,Need a haircut for 6,0.3656042218208313
+Get me a ride to the airport,Get me a ride to the airport,1.0000001192092896
+Get me a ride to the airport,Get me a cab to the airport,0.8580102324485779
+Get me a ride to the airport,Get me a taxi to the airport,0.847876787185669
+Get me a ride to the airport,Get me a shuttle to the airport,0.787439227104187
+Get me a ride to the airport,Get me a ticket to the airport,0.8100406527519226
+Get me a ride to the airport,Get me a lift to the airport,0.8515883088111877
+Get me a ride to the airport,Get me a bus to the airport,0.8144745826721191
+Order a taxi for tomorrow 8am,Order your taxi for tomorrow 8am,0.9690154790878296
+Order a taxi for tomorrow 8am,Order a taxi for tomorrow 8am,1.0000001192092896
+Order a taxi for tomorrow 8am,Order the taxi for tomorrow 8am,0.9717639684677124
+Order a taxi for tomorrow 8am,Order my taxi for tomorrow 8am,0.9571529030799866
+Order a taxi for tomorrow 8am,Order free taxi for tomorrow 8am,0.9193079471588135
+Order a taxi for tomorrow 8am,Order this taxi for tomorrow 8am,0.9570744037628174
+Order a taxi for tomorrow 8am,Order for taxi for tomorrow 8am,0.9619978666305542
+Order a taxi, hail a taxi,0.8887580037117004
+Order a taxi,Taking a taxi,0.8449679017066956
+Order a taxi,Finding a taxi,0.8443617820739746
+Order a taxi, driving a taxi,0.7680333256721497
+Order a taxi,driving a taxi,0.7680333256721497
+Order a taxi, booking a taxi,0.8370623588562012
+Order a taxi,hire a taxi,0.9042307734489441
+Book an Uber to my next meeting,Book an Uber to my next meeting,1.0000001192092896
+Book an Uber to my next meeting,Book an Uber to my upcoming meeting,0.974831759929657
+Book an Uber to my next meeting,Book an Uber to my weekly meeting,0.9276623129844666
+Book an Uber to my next meeting,Book an Uber to my business meeting,0.9144648313522339
+Book an Uber to my next meeting,Book an Uber to my first meeting,0.8996627330780029
+Book an Uber to my next meeting,Book an Uber to my monthly meeting,0.9091876149177551
+Book an Uber to my next meeting,Book an Uber to my annual meeting,0.8572921752929688
+Book a cab,Bookmark cab,0.45154082775115967
+Book a cab,Book rental cab,0.6541732549667358
+Book a cab,Booking cab,0.8406053781509399
+Book a cab,Book & cab,0.7267628908157349
+Book a cab,Bookmobile cab,0.6514258980751038
+Book a cab,Bookings cab,0.7397969365119934
+Book a cab,Bookroom cab,0.5848875045776367
+Find a taxi,Find a Reply,0.22660470008850098
+Find a taxi,Find a friend,0.324154794216156
+Find a taxi,Find a Friend,0.324154794216156
+Find a taxi,Find a typo,0.13558998703956604
+Find a taxi,Find a publisher,0.1350618153810501
+Find a taxi,Find a partner,0.219844788312912
+Find a taxi,Find a replacement,0.18793383240699768
+Book an Uber to home,Book an email to home,0.47223734855651855
+Book an Uber to home,Book an appointment to home,0.5287309288978577
+Book an Uber to home,Book an app to home,0.5477871894836426
+Book an Uber to home,Book an owl to home,0.4652586281299591
+Book an Uber to home,Book an ebook to home,0.3352280557155609
+Book an Uber to home,Book an iPad to home,0.5280634164810181
+Book an Uber to home,Book an invite to home,0.3887104392051697
+Order a cab for 6 people,Order a cab for 6 people,1.0
+Order a cab for 6 people,Order a cab carrying 6 people,0.9544503092765808
+Order a cab for 6 people,Order a cab with 6 people,0.9819871783256531
+Order a cab for 6 people,Order a cab containing 6 people,0.9714846611022949
+Order a cab for 6 people,Order a cab of 6 people,0.9808496832847595
+Order a cab for 6 people,Order a cab transporting 6 people,0.9487180113792419
+Order a cab for 6 people,Order a cab to 6 people,0.9711215496063232
+I need an Uber right now,I need an Uber right now,1.0000001192092896
+I need an Uber right now,I want an Uber right now,0.9255576133728027
+I need an Uber right now,I drive an Uber right now,0.7452161908149719
+I need an Uber right now,I own an Uber right now,0.7644908428192139
+I need an Uber right now,I ride an Uber right now,0.7618776559829712
+I need an Uber right now,I'm an Uber right now,0.7629623413085938
+I need an Uber right now,I prefer an Uber right now,0.7959425449371338
+Book me a ride at my current location,<majsk> me a ride at my current location,0.7403048276901245
+Book me a ride at my current location,<mjsk> me a ride at my current location,0.8090932965278625
+Book me a ride at my current location,<mösk> me a ride at my current location,0.7292196154594421
+Book me a ride at my current location,<movsk> me a ride at my current location,0.7194212079048157
+Book me a ride at my current location,<msksk> me a ride at my current location,0.7118052244186401
+Book me a ride at my current location,<m/sk> me a ride at my current location,0.7050350904464722
+Book me a ride at my current location,<mgrsk> me a ride at my current location,0.7101267576217651
+I want a taxi right now,I want a taxi right now,1.0000001192092896
+I want a taxi right now,I want a taxi driver now,0.8012471199035645
+I want a taxi right now,I want a taxi ride now,0.9229829907417297
+I want a taxi right now,I want a taxi service now,0.8473103642463684
+I want a taxi right now,I want a taxi cab now,0.9151011109352112
+I want a taxi right now,I want a taxi licence now,0.7490819096565247
+I want a taxi right now,I want a taxi here now,0.9163031578063965
+Is there any Uber around?,Is there any competition around?,0.3884983956813812
+Is there any Uber around?,Is there any movement around?,0.26723363995552063
+Is there any Uber around?,Is there any hope around?,0.24430060386657715
+Is there any Uber around?,Is there any doubt around?,0.13724622130393982
+Is there any Uber around?,Is there any confusion around?,0.019697634503245354
+Is there any Uber around?,Is there any optimism around?,0.23698613047599792
+Is there any Uber around?,Is there any evidence around?,0.12475501000881195
+Directions to Disneyworld avoiding traffic,Getting to Disneyworld avoiding traffic,0.8971834182739258
+Directions to Disneyworld avoiding traffic,Drive to Disneyworld avoiding traffic,0.8694539666175842
+Directions to Disneyworld avoiding traffic,Access to Disneyworld avoiding traffic,0.839889645576477
+Directions to Disneyworld avoiding traffic,Welcome to Disneyworld avoiding traffic,0.7576287388801575
+Directions to Disneyworld avoiding traffic,Head to Disneyworld avoiding traffic,0.8500440716743469
+Directions to Disneyworld avoiding traffic,Fly to Disneyworld avoiding traffic,0.8247520923614502
+Directions to Disneyworld avoiding traffic,Walk to Disneyworld avoiding traffic,0.864692747592926
+Bicycling directions to Millenium park,Additional directions to Millenium park,0.8175235986709595
+Bicycling directions to Millenium park,View directions to Millenium park,0.8010272979736328
+Bicycling directions to Millenium park,Detailed directions to Millenium park,0.8101075887680054
+Bicycling directions to Millenium park,Direct directions to Millenium park,0.8297849297523499
+Bicycling directions to Millenium park,All directions to Millenium park,0.7751177549362183
+Bicycling directions to Millenium park,General directions to Millenium park,0.830366313457489
+Bicycling directions to Millenium park,Further directions to Millenium park,0.8093841671943665
+Directions to La Guardia airport using Waze,Directions to La Guardia airport using Waze,1.0
+Directions to La Guardia airport using Waze,Directions from La Guardia airport using Waze,0.9837082624435425
+Directions to La Guardia airport using Waze,Directions at La Guardia airport using Waze,0.9780893325805664
+Directions to La Guardia airport using Waze,Directions via La Guardia airport using Waze,0.9647138714790344
+Directions to La Guardia airport using Waze,Directions through La Guardia airport using Waze,0.9546954035758972
+Directions to La Guardia airport using Waze,Directions around La Guardia airport using Waze,0.957102358341217
+Directions to La Guardia airport using Waze,Directions: La Guardia airport using Waze,0.9774046540260315
+Cycling directions to Chelsea Market,Cycling Bike to Chelsea Market,0.9217426776885986
+Cycling directions to Chelsea Market,Cycling Guide to Chelsea Market,0.893660843372345
+Cycling directions to Chelsea Market,Cycling Back to Chelsea Market,0.9207340478897095
+Cycling directions to Chelsea Market,Cycling Goes to Chelsea Market,0.8765944838523865
+Cycling directions to Chelsea Market,Cycling Returns to Chelsea Market,0.7521889209747314
+Cycling directions to Chelsea Market,Cycling Comes to Chelsea Market,0.8511368632316589
+Cycling directions to Chelsea Market,Cycling Alternative to Chelsea Market,0.8510022163391113
+Driving directions to Tavern on the Green,Driving directiSigns to Tavern on the Green,0.8334408402442932
+Driving directions to Tavern on the Green,Driving directiès to Tavern on the Green,0.8455886244773865
+Driving directions to Tavern on the Green,Driving directiRoads to Tavern on the Green,0.760688304901123
+Driving directions to Tavern on the Green,Driving directiós to Tavern on the Green,0.7245002388954163
+Driving directions to Tavern on the Green,Driving directi BMWs to Tavern on the Green,0.6325263381004333
+Driving directions to Tavern on the Green,Driving directi Weds to Tavern on the Green,0.6678326725959778
+Driving directions to Tavern on the Green,Driving directirols to Tavern on the Green,0.763674795627594
+Transit directions to Barcelona Wine Bar,Direct directions to Barcelona Wine Bar,0.8961176872253418
+Transit directions to Barcelona Wine Bar,Additional directions to Barcelona Wine Bar,0.869269847869873
+Transit directions to Barcelona Wine Bar,Quick directions to Barcelona Wine Bar,0.8754311203956604
+Transit directions to Barcelona Wine Bar,All directions to Barcelona Wine Bar,0.8574734330177307
+Transit directions to Barcelona Wine Bar,Travel directions to Barcelona Wine Bar,0.902591347694397
+Transit directions to Barcelona Wine Bar,Further directions to Barcelona Wine Bar,0.8888995051383972
+Transit directions to Barcelona Wine Bar,General directions to Barcelona Wine Bar,0.8932677507400513
+Navigate to Palo Alto avoiding traffic,Navigate to Palo Alto avoiding BART,0.8568243384361267
+Navigate to Palo Alto avoiding traffic,Navigate to Palo Alto avoiding traffic,1.0
+Navigate to Palo Alto avoiding traffic,Navigate to Palo Alto avoiding crash,0.8148909211158752
+Navigate to Palo Alto avoiding traffic,Navigate to Palo Alto avoiding disaster,0.7497203350067139
+Navigate to Palo Alto avoiding traffic,Navigate to Palo Alto avoiding.,0.7279189825057983
+Navigate to Palo Alto avoiding traffic,Navigate to Palo Alto avoiding congestion,0.9018645882606506
+Navigate to Palo Alto avoiding traffic,Navigate to Palo Alto avoiding wildfires,0.6937609910964966
+Directions to JFK airport at 7am,Directions to JFK airport at 7am,0.9999999403953552
+Directions to JFK airport at 7am,Directions to JFK airport until 7am,0.9698585271835327
+Directions to JFK airport at 7am,Directions to JFK airport from 7am,0.987743079662323
+Directions to JFK airport at 7am,Directions to JFK airport by 7am,0.9857178926467896
+Directions to JFK airport at 7am,Directions to JFK airport before 7am,0.9864163398742676
+Directions to JFK airport at 7am,Directions to JFK airport: 7am,0.9609904289245605
+Directions to JFK airport at 7am,Directions to JFK airport around 7am,0.9913051724433899
+How do I go back home?,How do I go back home?,1.0
+How do I go back home?,How can I go back home?,0.9599345922470093
+How do I go back home?,How will I go back home?,0.9442769289016724
+How do I go back home?,How did I go back home?,0.9026103019714355
+How do I go back home?,How shall I go back home?,0.9318564534187317
+How do I go back home?,How could I go back home?,0.9321423172950745
+How do I go back home?,How should I go back home?,0.9438340067863464
+Directions to Tulsa with road 66,Directions to connect with road 66,0.7260033488273621
+Directions to Tulsa with road 66,Directions to junction with road 66,0.7124961018562317
+Directions to Tulsa with road 66,Directions to merge with road 66,0.6952892541885376
+Directions to Tulsa with road 66,Directions to coincide with road 66,0.7345900535583496
+Directions to Tulsa with road 66,Directions to proceed with road 66,0.7080378532409668
+Directions to Tulsa with road 66,Directions to intersections with road 66,0.7112186551094055
+Directions to Tulsa with road 66,Directions to intersection with road 66,0.7026100754737854
+Show me walking directions to MOMA,Show me walking directions AT MOMA,0.9522502422332764
+Show me walking directions to MOMA,Show me walking directions FROM MOMA,0.9762155413627625
+Show me walking directions to MOMA,Show me walking directions! MOMA,0.9233704209327698
+Show me walking directions to MOMA,Show me walking directions TO MOMA,1.0000001192092896
+Show me walking directions to MOMA,Show me walking directions at MOMA,0.9522502422332764
+Show me walking directions to MOMA,Show me walking directions: MOMA,0.970529317855835
+Show me walking directions to MOMA,Show me walking directions — MOMA,0.8645839095115662
+Directions to my beach house avoiding tolls,Getting to my beach house avoiding tolls,0.9231123328208923
+Directions to my beach house avoiding tolls,Walk to my beach house avoiding tolls,0.8415601253509521
+Directions to my beach house avoiding tolls, walk to my beach house avoiding tolls,0.8415601253509521
+Directions to my beach house avoiding tolls,Access to my beach house avoiding tolls,0.8900562524795532
+Directions to my beach house avoiding tolls,Welcome to my beach house avoiding tolls,0.7597284913063049
+Directions to my beach house avoiding tolls, drive to my beach house avoiding tolls,0.8565875887870789
+Directions to my beach house avoiding tolls,Close to my beach house avoiding tolls,0.8182429075241089
+Show me directions to my hotel,Show me directions to your hotel,0.9644712209701538
+Show me directions to my hotel,Show me directions to my hotel,0.9999999403953552
+Show me directions to my hotel,Show me directions to the hotel,0.9361963868141174
+Show me directions to my hotel,Show me directions to nearest hotel,0.9168915748596191
+Show me directions to my hotel,Show me directions to our hotel,0.9261711835861206
+Show me directions to my hotel,Show me directions to a hotel,0.9456944465637207
+Show me directions to my hotel,Show me directions to local hotel,0.9089412689208984
+Directions to Joe's pub,Directions to Joe's List,0.7144686579704285
+Directions to Joe's pub,Directions to Joe's Website,0.7119795083999634
+Directions to Joe's pub,Directions to Joe's Pizza,0.8063293099403381
+Directions to Joe's pub,Directions to Joe's Blog,0.5911412239074707
+Directions to Joe's pub,Directions to Joe's Page,0.6879034042358398
+Directions to Joe's pub,Directions to Joe's website,0.7119795083999634
+Directions to Joe's pub,Directions to Joe's Restaurant,0.8627454042434692
+Share my ETA with Mary Jane,Share Your ETA with Mary Jane,0.9722912907600403
+Share my ETA with Mary Jane,Share This ETA with Mary Jane,0.9458522796630859
+Share my ETA with Mary Jane,Share The ETA with Mary Jane,0.9639027714729309
+Share my ETA with Mary Jane,Share the ETA with Mary Jane,0.9639027714729309
+Share my ETA with Mary Jane,Share this ETA with Mary Jane,0.9458522796630859
+Share my ETA with Mary Jane,Share Article ETA with Mary Jane,0.7601375579833984
+Share my ETA with Mary Jane,Share via ETA with Mary Jane,0.8097447156906128
+Share my arrival time with Juan Carlos,Share my arrival time with Juan Carlos,1.0000001192092896
+Share my arrival time with Juan Carlos,Share my arrival time by Juan Carlos,0.7098025679588318
+Share my arrival time with Juan Carlos,Share my arrival time via Juan Carlos,0.944473922252655
+Share my arrival time with Juan Carlos,Share my arrival time @ Juan Carlos,0.9204619526863098
+Share my arrival time with Juan Carlos,Share my arrival time! Juan Carlos,0.930164098739624
+Share my arrival time with Juan Carlos,Share my arrival time: Juan Carlos,0.9512814283370972
+Share my arrival time with Juan Carlos,Share my arrival time – Juan Carlos,0.8700922131538391
+Share my ETA with Jo,Share my thoughts with Jo,0.5786809325218201
+Share my ETA with Jo,Share my experiences with Jo,0.4866926074028015
+Share my ETA with Jo,Share my story with Jo,0.5721225142478943
+Share my ETA with Jo,Share my experience with Jo,0.4899252653121948
+Share my ETA with Jo,Share my views with Jo,0.5704579949378967
+Share my ETA with Jo,Share my journey with Jo,0.5743057131767273
+Share my ETA with Jo,Share my blog with Jo,0.5729923248291016
+Send my time of arrival to Nina,From my time of arrival to Nina,0.7071402072906494
+Send my time of arrival to Nina,from my time of arrival to Nina,0.7071402072906494
+Send my time of arrival to Nina,Compare my time of arrival to Nina,0.7591157555580139
+Send my time of arrival to Nina, from my time of arrival to Nina,0.7071402072906494
+Send my time of arrival to Nina,ribe my time of arrival to Nina,0.7951868176460266
+Send my time of arrival to Nina,About my time of arrival to Nina,0.8393391370773315
+Send my time of arrival to Nina, describe my time of arrival to Nina,0.8710333108901978
+Share with Franz my ETA,Share with Franz via ETA,0.8311017751693726
+Share with Franz my ETA,Share with Franz Kafka ETA,0.7318325042724609
+Share with Franz my ETA,Share with Franz on ETA,0.963679850101471
+Share with Franz my ETA,Share with Franz at ETA,0.8962112069129944
+Share with Franz my ETA,Share with Franz by ETA,0.8338339328765869
+Share with Franz my ETA,Share with Franz: ETA,0.9256355166435242
+Share with Franz my ETA,Share with Franz | ETA,0.8606405258178711
+Send my ETA to my girlfriend,Send an ETA to my girlfriend,0.9621701240539551
+Send my ETA to my girlfriend,Send your ETA to my girlfriend,0.8601979613304138
+Send my ETA to my girlfriend,Send my ETA to my girlfriend,1.0000001192092896
+Send my ETA to my girlfriend,Send this ETA to my girlfriend,0.9060138463973999
+Send my ETA to my girlfriend,Send FREE ETA to my girlfriend,0.926463782787323
+Send my ETA to my girlfriend,Send FedEx ETA to my girlfriend,0.7687680125236511
+Send my ETA to my girlfriend,Send MY ETA to my girlfriend,1.0000001192092896
+Share my ETA,Share Tweet ETA,0.6188055872917175
+Share my ETA,Share This ETA,0.9151241779327393
+Share my ETA,Share via ETA,0.7353442311286926
+Share my ETA,Share this ETA,0.9151241779327393
+Share my ETA,Share Article ETA,0.6709248423576355
+Share my ETA,Share with ETA,0.8473183512687683
+Share my ETA,Share The ETA,0.949300229549408
+Share my ETA with my data scientist,Share my thoughts with my data scientist,0.6492242813110352
+Share my ETA with my data scientist,Share my findings with my data scientist,0.728031575679779
+Share my ETA with my data scientist,Share my experiences with my data scientist,0.6790742874145508
+Share my ETA with my data scientist,Share my ideas with my data scientist,0.7039087414741516
+Share my ETA with my data scientist,Share my insights with my data scientist,0.7167288661003113
+Share my ETA with my data scientist,Share my experience with my data scientist,0.6628369688987732
+Share my ETA with my data scientist,Share my research with my data scientist,0.7363995313644409
+Share my ETA with the Snips team,Share my ETA with the Snips team,1.0000001192092896
+Share my ETA with the Snips team,Share my ETA via the Snips team,0.9687246680259705
+Share my ETA with the Snips team,Share my ETA to the Snips team,0.9946897625923157
+Share my ETA with the Snips team,Share my ETA from the Snips team,0.9770296216011047
+Share my ETA with the Snips team,Share my ETA on the Snips team,0.9724825620651245
+Share my ETA with the Snips team,Share my ETA at the Snips team,0.9809490442276001
+Share my ETA with the Snips team,Share my ETA through the Snips team,0.9715617299079895
+Is there traffic from work to gym?,Is there traffic linking work to gym?,0.8713075518608093
+Is there traffic from work to gym?,Is there traffic directing work to gym?,0.9487612247467041
+Is there traffic from work to gym?,Is there traffic connecting work to gym?,0.9631810784339905
+Is there traffic from work to gym?,Is there traffic transferring work to gym?,0.9116398692131042
+Is there traffic from work to gym?,Is there traffic causing work to gym?,0.9029185175895691
+Is there traffic from work to gym?,Is there traffic from work to gym?,1.0000001192092896
+Is there traffic from work to gym?,Is there traffic blocking work to gym?,0.9079130291938782
+How's traffic to go to my hotel?,<ma_k>'s traffic to go to my hotel?,0.8184183835983276
+How's traffic to go to my hotel?,<ma=k>'s traffic to go to my hotel?,0.8444969058036804
+How's traffic to go to my hotel?,<ma**k>'s traffic to go to my hotel?,0.8343847393989563
+How's traffic to go to my hotel?,<ma$k>'s traffic to go to my hotel?,0.7301914691925049
+How's traffic to go to my hotel?,<ma^k>'s traffic to go to my hotel?,0.8322333693504333
+How's traffic to go to my hotel?,<ma/k>'s traffic to go to my hotel?,0.8500486612319946
+How's traffic to go to my hotel?,<maMonk>'s traffic to go to my hotel?,0.7249044179916382
+Is there traffic jam on 6th avenue?,Is there traffic jam on this avenue?,0.8657968640327454
+Is there traffic jam on 6th avenue?,Is there traffic jam on the avenue?,0.9001417756080627
+Is there traffic jam on 6th avenue?,Is there traffic jam on Madison avenue?,0.941761314868927
+Is there traffic jam on 6th avenue?,Is there traffic jam on that avenue?,0.8703569173812866
+Is there traffic jam on 6th avenue?,Is there traffic jam on Sixth avenue?,0.9943715333938599
+Is there traffic jam on 6th avenue?,Is there traffic jam on an avenue?,0.8340654373168945
+Is there traffic jam on 6th avenue?,Is there traffic jam on Fifth avenue?,0.9430868029594421
+Is the road to work congested?,Is the road to work congested?,1.000000238418579
+Is the road to work congested?, Is the road to work congested?,1.000000238418579
+Is the road to work congested?,Was the road to work congested?,0.8956553339958191
+Is the road to work congested?, is the road to work congested?,1.000000238418579
+Is the road to work congested?,Are the road to work congested?,0.9844694137573242
+Is the road to work congested?, gets the road to work congested?,0.8188592195510864
+Is the road to work congested?, leaves the road to work congested?,0.7678311467170715
+Is there any traffic on US 20?,Is there any closure on US 20?,0.5492256283760071
+Is there any traffic on US 20?,Is there any impact on US 20?,0.41071152687072754
+Is there any traffic on US 20?,Is there any progress on US 20?,0.45626479387283325
+Is there any traffic on US 20?,Is there any limit on US 20?,0.3270050287246704
+Is there any traffic on US 20?,Is there any effect on US 20?,0.3914007246494293
+Is there any traffic on US 20?,Is there any doubt on US 20?,0.31431397795677185
+Is there any traffic on US 20?,Is there any debate on US 20?,0.3153505027294159
+Show me the forecast for New Orleans,Show me hurricane forecast for New Orleans,0.8854078650474548
+Show me the forecast for New Orleans,Show me weather forecast for New Orleans,0.9094668030738831
+Show me the forecast for New Orleans,Show me my forecast for New Orleans,0.9768792390823364
+Show me the forecast for New Orleans,Show me the forecast for New Orleans,1.000000238418579
+Show me the forecast for New Orleans,Show me your forecast for New Orleans,0.9534767866134644
+Show me the forecast for New Orleans,Show me a forecast for New Orleans,0.9862568974494934
+Show me the forecast for New Orleans,Show me tornado forecast for New Orleans,0.8611198663711548
+Is it cold outside? ,Is it cold outside? ,1.000000238418579
+Is it cold outside? ,Is snow cold outside? ,0.8119661808013916
+Is it cold outside? ,Is this cold outside? ,0.9437115788459778
+Is it cold outside? ,Is Chicago cold outside? ,0.7482718229293823
+Is it cold outside? ,Is that cold outside? ,0.920409619808197
+Is it cold outside? ,Is anything cold outside? ,0.8622123599052429
+Is it cold outside? ,Is winter cold outside? ,0.805600643157959
+Is it going to rain tomorrow?,Is it going to rain tomorrow?,1.0
+Is it going to rain tomorrow?,Is everything going to rain tomorrow?,0.9474083185195923
+Is it going to rain tomorrow?,Is rain going to rain tomorrow?,0.9709445238113403
+Is it going to rain tomorrow?,Is this going to rain tomorrow?,0.9718815684318542
+Is it going to rain tomorrow?,Is anything going to rain tomorrow?,0.9378281831741333
+Is it going to rain tomorrow?,Is nothing going to rain tomorrow?,0.931657612323761
+Is it going to rain tomorrow?,Is Portland going to rain tomorrow?,0.8664587736129761
+Can I walk to my next meeting?,Should I walk to my next meeting?,0.8805087804794312
+Can I walk to my next meeting?,Will I walk to my next meeting?,0.8794885277748108
+Can I walk to my next meeting?,Can I walk to my next meeting?,0.9999998211860657
+Can I walk to my next meeting?,Would I walk to my next meeting?,0.8515016436576843
+Can I walk to my next meeting?, should I walk to my next meeting?,0.8805087804794312
+Can I walk to my next meeting?, do I walk to my next meeting?,0.8851438760757446
+Can I walk to my next meeting?,Do I walk to my next meeting?,0.8851438760757446
+How windy will it be tomorrow?,How windy will it be tomorrow?,0.9999999403953552
+How windy will it be tomorrow?,How windy will it be tonight?,0.9540237188339233
+How windy will it be tomorrow?,How windy will it be next?,0.882861852645874
+How windy will it be tomorrow?,How windy will it be today?,0.985774040222168
+How windy will it be tomorrow?,How windy will it be then?,0.8936185836791992
+How windy will it be tomorrow?,How windy will it be again?,0.8685547113418579
+How windy will it be tomorrow?,How windy will it be though?,0.8719276785850525
+Can I go hiking this afternoon?,Can I go hiking tomorrow afternoon?,0.9866189956665039
+Can I go hiking this afternoon?,Can I go hiking this afternoon?,1.0000001192092896
+Can I go hiking this afternoon?,Can I go hiking Saturday afternoon?,0.911903977394104
+Can I go hiking this afternoon?,Can I go hiking Sunday afternoon?,0.913864016532898
+Can I go hiking this afternoon?,Can I go hiking that afternoon?,0.9478557109832764
+Can I go hiking this afternoon?,Can I go hiking Monday afternoon?,0.9110538363456726
+Can I go hiking this afternoon?,Can I go hiking Friday afternoon?,0.9000945091247559
+What is the temperature tomorrow morning?,What is the forecast tomorrow morning?,0.8017491102218628
+What is the temperature tomorrow morning?,What is the schedule tomorrow morning?,0.4527418613433838
+What is the temperature tomorrow morning?,What is the verdict tomorrow morning?,0.48885855078697205
+What is the temperature tomorrow morning?,What is the agenda tomorrow morning?,0.44021299481391907
+What is the temperature tomorrow morning?,What is the plan tomorrow morning?,0.5509128570556641
+What is the temperature tomorrow morning?,What is the date tomorrow morning?,0.6152664422988892
+What is the temperature tomorrow morning?,What is the news tomorrow morning?,0.5207417011260986
+Is it cold outside?,Is it raining outside?,0.7284144163131714
+Is it cold outside?,Is it sunny outside?,0.7587541937828064
+Is it cold outside?,Is it cold outside?,1.000000238418579
+Is it cold outside?,Is it freezing outside?,0.9389885663986206
+Is it cold outside?,Is it hot outside?,0.8639726042747498
+Is it cold outside?,Is it humid outside?,0.7104606628417969
+Is it cold outside?,Is it dark outside?,0.7217923998832703
+Is it windy today?,Is it windy today?,1.0
+Is it windy today?,Is tomorrow windy today?,0.9321088194847107
+Is it windy today?,Is Portland windy today?,0.8573047518730164
+Is it windy today?,Is Chicago windy today?,0.867476224899292
+Is it windy today?,Is Ottawa windy today?,0.8625714778900146
+Is it windy today?,Is Seattle windy today?,0.869860053062439
+Is it windy today?,Is Winnipeg windy today?,0.8320040106773376
+What's the weather like at work?,What's the weather like at night?,0.6280930042266846
+What's the weather like at work?,What's the weather like at home?,0.7733209729194641
+What's the weather like at work?,What's the weather like at midday?,0.6869222521781921
+What's the weather like at work?,What's the weather like at dusk?,0.559973955154419
+What's the weather like at work?,What's the weather like at Christmas?,0.5814703106880188
+What's the weather like at work?,What's the weather like at noon?,0.6960947513580322
+What's the weather like at work?,What's the weather like at sunset?,0.5457083582878113
+I want the weather in Paris,I want the weather in Paris,1.0
+I want the weather in Paris,I want the weather from Paris,0.9330921769142151
+I want the weather in Paris,I want the weather for Paris,0.9819478392601013
+I want the weather in Paris,I want the weather outside Paris,0.9543079137802124
+I want the weather in Paris,I want the weather! Paris,0.8597049117088318
+I want the weather in Paris,I want the weather: Paris,0.8946526050567627
+I want the weather in Paris,I want the weather around Paris,0.9714661836624146
+What's it like outside?,What's life like outside?,0.9208119511604309
+What's it like outside?,What's it like outside?,1.0000001192092896
+What's it like outside?,What's feeling like outside?,0.8444363474845886
+What's it like outside?,What's really like outside?,0.9409270286560059
+What's it like outside?,What's camping like outside?,0.6801108121871948
+What's it like outside?,What's summer like outside?,0.7993852496147156
+What's it like outside?,What's Halloween like outside?,0.6300745010375977
+Is it raining right now?,Is it raining right now?,1.0000001192092896
+Is it raining right now?,Is it raining rain now?,0.944204568862915
+Is it raining right now?,Is it raining outside now?,0.9536726474761963
+Is it raining right now?,Is it raining even now?,0.9201059341430664
+Is it raining right now?,Is it raining again now?,0.8932607173919678
+Is it raining right now?,Is it raining out now?,0.9457825422286987
+Is it raining right now?,Is it raining hard now?,0.9049055576324463
+Whats the weather like in Bordeaux?,Whats the weather like in Bordeaux?,1.0000001192092896
+Whats the weather like in Bordeaux?,Whats the weather changing in Bordeaux?,0.8812866806983948
+Whats the weather like in Bordeaux?,Whats the weather forecast in Bordeaux?,0.8885075449943542
+Whats the weather like in Bordeaux?,Whats the weather happening in Bordeaux?,0.9189268946647644
+Whats the weather like in Bordeaux?,Whats the weather worse in Bordeaux?,0.8765481114387512
+Whats the weather like in Bordeaux?,Whats the weather outside in Bordeaux?,0.9651403427124023
+Whats the weather like in Bordeaux?,Whats the weather saying in Bordeaux?,0.8768666386604309
+Should I take a rain coat today?,Should I take a rain shower today?,0.8111218810081482
+Should I take a rain coat today?,Should I take a rain jacket today?,0.964240550994873
+Should I take a rain coat today?,Should I take a raincoat today?,0.9800273776054382
+Should I take a rain coat today?,Should I take a rain bath today?,0.7527419924736023
+Should I take a rain coat today?,Should I take a rain cone today?,0.8060284852981567
+Should I take a rain coat today?,Should I take a rain coat today?,1.0000001192092896
+Should I take a rain coat today?,Should I take a rain pill today?,0.7593842148780823
